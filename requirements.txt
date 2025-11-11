@@ -2,7 +2,7 @@ openai
 tiktoken
 streamlit
 faiss-cpu
-langchain
 python-dotenv
-langchain-openai
-langchain-community
+langchain==0.3.3
+langchain-openai==0.2.2
+langchain-community==0.3.2
