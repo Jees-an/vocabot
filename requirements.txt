@@ -1,8 +1,8 @@
-openai==1.51.0
-tiktoken==0.7.0
-streamlit==1.39.0
-faiss-cpu==1.8.0
-langchain==0.3.3
-python-dotenv==1.0.1
-langchain-openai==0.2.2
-langchain-community==0.3.2
+openai
+tiktoken
+streamlit
+faiss-cpu
+langchain
+python-dotenv
+langchain-openai
+langchain-community
